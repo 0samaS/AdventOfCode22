@@ -3,10 +3,12 @@
 
 int part1(std::ifstream& file)
 {
+    return 0;
 }
 
 int part2(std::ifstream& file)
 {
+    return 0;
 }
 
 int main()
